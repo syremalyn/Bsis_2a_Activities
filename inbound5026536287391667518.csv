@@ -1,0 +1,4 @@
+Pclass	Name	Sex	Age	SibSp	Parch	Fare	Embarked
+3	"Dawson, Jack"	male	23	0	0	0	S
+1	"Bukater, Rose DeWitt "	female	17	0	1	263.15	S
+1	"Hockley, Cal "	male	31	0	0	263.15	S
